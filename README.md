@@ -21,6 +21,8 @@
         <tr>
             <td align="center">- T01-LAPP</td>
             <td align="center"><a href=https://github.com/GugaJedi/pub/blob/master/LAPP.md>Tutorial para instalação de PostgreSQL + Apache + PHP 7.4</a></td>
+        </tr>
+        <tr>
             <td align="center">- T02-LAMP</td>
             <td align="center"><a href=https://github.com/GugaJedi/pub/blob/master/LAMP.md>Tutorial para instalação de MariaDB 10.5 + Apache + PHP 7.4</a></td>
         </tr>
