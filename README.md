@@ -6,7 +6,7 @@
 
 | Título | Descrição | Link |
 | ------ | --------- | ---- |
-| LAPP   | Tutorial para instalação de PostgreSQL + Apache + PHP 7.4 | https://github.com/GugaJedi/pub/blob/master/LAPP.md |
+| LAPP   | Tutorial para instalação de PostgreSQL + Apache + PHP 7.4 | <a href=https://github.com/GugaJedi/pub/blob/master/LAPP.md> LAPP Tutorial |
 
 
 ```sh
