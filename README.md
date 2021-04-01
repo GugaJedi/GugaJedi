@@ -6,5 +6,5 @@
 
 | Título | Descrição | Link |
 | ------ | --------- | ---- |
-| LAPP   | Tutorial para instalação de PostgreSQL + Apache + PHP 7.4 | <a href=https://github.com/GugaJedi/pub/blob/master/LAPP.md> LAPP Tutorial |
-| LAMP   | Tutorial para instalação de MariaDB 10.5 + Apache + PHP 7.4 | LAMP Tutorial |
+| LAPP   | Tutorial para instalação de PostgreSQL + Apache + PHP 7.4 | <a href=https://github.com/GugaJedi/pub/blob/master/LAPP.md>LAPP Tutorial</a> |
+| LAMP   | Tutorial para instalação de MariaDB 10.5 + Apache + PHP 7.4 | <a href=https://github.com/GugaJedi/pub/blob/master/LAMP.md>LAMP Tutorial</a> |
