@@ -13,13 +13,15 @@
 <table align="center">
     <thead>
         <tr>
-            <th align="left">Column1</th>
+            <th align="center">#</th>
+            <th align="center">Tutorial</th>
             <th align="center">Column1</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left">Column1</td>
+            <td align="center">Column1</td>
+            <td align="center">Column1</td>
             <td align="center">Column1</td>
         </tr>
     </tbody>
