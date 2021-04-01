@@ -1,8 +1,8 @@
-# …or create a new repository on the command line
-
 <p align="center">
  <img src="assets/Logo1.png" alt="InfraGeek" />
 </p>
+
+<p align="center">Olás! Me chamo Guga, tenho 34 anos e sou Engenheiro de Infraestrutura especialista em Linux e Infra Cloud e se você chegou aqui procurando Tutorias dos mais diversos para ambientes Linux, você veio ao lugar certo!</p>
 
 ```sh
 echo "# GugaJedi" >> README.md
