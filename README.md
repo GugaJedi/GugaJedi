@@ -10,7 +10,7 @@
 | - T02-LAMP | <a href=https://github.com/GugaJedi/pub/blob/master/LAMP.md>Tutorial para instalação de MariaDB 10.5 + Apache + PHP 7.4</a> |
 
 <p align="center">
-<table>
+<table align="center">
     <thead>
         <tr>
             <th align="left">Column1</th>
