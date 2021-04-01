@@ -13,7 +13,9 @@
 
 ---
 
-Tutoriais específicos para variados tipos de Ambientes.
+Tutoriais específicos para variados tipos de Ambientes, porém meu foco é sistemas RHL como por exemplo o CentOS, dificil eu utilizar Debian based system.
+
+# TUTORIAIS
 
 <p align="center">
 <table align="center">
