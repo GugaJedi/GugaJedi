@@ -8,3 +8,22 @@
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
 | - T01-LAPP | <a href=https://github.com/GugaJedi/pub/blob/master/LAPP.md>Tutorial para instalação de PostgreSQL + Apache + PHP 7.4</a>   |
 | - T02-LAMP | <a href=https://github.com/GugaJedi/pub/blob/master/LAMP.md>Tutorial para instalação de MariaDB 10.5 + Apache + PHP 7.4</a> |
+
+<p align="center"></p>
+<table>
+    <thead>
+        <tr>
+            <th align="left">Column1</th>
+            <th align="center">Column1</th>
+            <th align="right">Column1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Column1</td>
+            <td align="center">Column1</td>
+            <td align="right">Column1</td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
