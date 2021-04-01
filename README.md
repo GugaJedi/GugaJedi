@@ -35,3 +35,30 @@ Tutoriais específicos para variados tipos de Ambientes.
     </tbody>
 </table>
 </p>
+
+---
+
+# REPOSITÓRIOS
+
+1. Esta sessão descreve repositórios para instalação de componentes no CentOS 7 através do YUM, como por exemplo instalar o PostgreSQL 9.6.21 sem precisar compilar o pacote manualmente.
+
+<p align="center">
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center">Nome</th>
+            <th align="center">Repositório</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">PostgreSQL</td>
+            <td align="center"><a href=https://github.com/GugaJedi/pub/blob/master/ctos7-rhl-pgsql.md>PostgreSQL para CentOS 7</a></td>
+        </tr>
+        <tr>
+            <td align="center">MariaDB 10</td>
+            <td align="center"><a href=https://github.com/GugaJedi/pub/blob/master/ctos7-rhl-mariadb.md>MariaDB 10+</a></td>
+        </tr>
+    </tbody>
+</table>
+</p>
