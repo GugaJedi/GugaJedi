@@ -1,5 +1,9 @@
 # …or create a new repository on the command line
 
+<p align="center">
+ <img src="assets/Logo1.png" alt="InfraGeek" />
+</p>
+
 ```sh
 echo "# GugaJedi" >> README.md
 git init
