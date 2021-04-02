@@ -64,5 +64,3 @@ Tutoriais específicos para variados tipos de Ambientes, porém meu foco é sist
     </tbody>
 </table>
 </p>
-
-# I'm working only on this branch now, so I don't change anything right now to the master branch
