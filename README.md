@@ -40,6 +40,11 @@ Tutoriais específicos para variados tipos de Ambientes, porém meu foco é sist
 
 ---
 
+<<<<<<< HEAD
+# FELIPE SMITH
+
+
+=======
 # REPOSITÓRIOS
 
 1. Esta sessão descreve repositórios para instalação de componentes no CentOS 7 através do YUM, como por exemplo instalar o PostgreSQL 9.6.21 sem precisar compilar o pacote manualmente.
@@ -64,3 +69,4 @@ Tutoriais específicos para variados tipos de Ambientes, porém meu foco é sist
     </tbody>
 </table>
 </p>
+>>>>>>> 39d4d5ced1415a9e6328a15e76700ab88deec7b9
